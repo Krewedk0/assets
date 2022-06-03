@@ -70,5 +70,11 @@
         "name": "Solana Compass 🧭",
         "description": "Building tools, guides and dashboards to support the Solana ecosystem. High performance validator, excellent uptime.",
         "website": "https://solanacompass.com/"
+    },
+    {
+        "id": "DP3iT6AXJxWsn5pR1ik13vchaTeeyr3fqXFTeysxrXtv",
+        "name": "Citadel.one",
+        "description": "Citadel.one is a multi-asset non-custodial staking platform that lets anyone become a part of decentralized infrastructure and earn passive income. Stake with our nodes or any other validator across multiple networks in a few clicks",
+        "website": "https://citadel.one/"
     }
 ]
